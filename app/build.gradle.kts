@@ -4,10 +4,10 @@ plugins {
 }
 
 android {
-    namespace = "com.example.acerweb"
+    namespace = "com.example.piweb"
     compileSdk = 34
     defaultConfig {
-        applicationId = "com.example.acerweb"
+        applicationId = "com.example.piweb"
         minSdk = 21
         targetSdk = 34
         versionCode = 1
