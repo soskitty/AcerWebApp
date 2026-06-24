@@ -6,7 +6,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="pi-web"
         android:supportsRtl="true"
-        android:theme="@style/Theme.AppCompat.Light"
+        android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
         android:usesCleartextTraffic="true">
         <activity
             android:name=".MainActivity"
